@@ -1,3 +1,2 @@
-baseurl: "/jtest"
+baseurl: "/jtest/"
 url: "http://frederickostrenko.com"
-markdown: kramdown
